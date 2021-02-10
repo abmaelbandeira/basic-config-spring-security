@@ -7,7 +7,6 @@ basic sprign security configuration
 
 * Java 11
 * [Spring Boot](https://spring.io/projects/spring-boot)
-* [Spring MVC](https://spring.io/guides/gs/serving-web-content/)
 * [Thymeleaf](https://www.thymeleaf.org/)
 * Spring Security
 
